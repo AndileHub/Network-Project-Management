@@ -39,15 +39,15 @@ The CPM calculation identifies the **critical path** and calculates **Earliest F
 **Critical Path:** `B → E → G`  
 **Project Duration:** 14 days
 
-| Activity | EF | LF | Slack |
-|----------|----|----|-------|
-| A        | 4  | 7  | 3     |
-| B        | 7  | 7  | 0     |
-| C        | 5  | 7  | 2     |
-| D        | 7  | 10 | 3     |
-| E        | 10 | 10 | 0     |
-| F        | 11 | 14 | 3     |
-| G        | 14 | 14 | 0     |
+| Activity | EF       |    LF   | Slack   |
+|----------|----------|---------|---------|
+|    A     |    4     |   7     |   3     |
+|    B     |    7     |   7     |   0     |
+|    C     |    5     |   7     |   2     |
+|    D     |    7     |   10    |   3     |
+|    E     |    10    |   10    |   0     |
+|    F     |    11    |   14    |   3     |
+|    G     |    14    |   14    |   0     |
 
 ---
 
